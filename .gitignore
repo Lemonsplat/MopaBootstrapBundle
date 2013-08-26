@@ -2,6 +2,7 @@
 ###########
 Resources/bootstrap
 Resources/bootstrap-sass
+Resources/twbs
 
 # Composer #
 ############
